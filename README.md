@@ -12,3 +12,6 @@ also for other battery datasets use these links
 https://zenodo.org/record/5196334
 
 https://calce.umd.edu/battery-data
+
+I took the SIH data from the experiment I've done. I will add the csv files in this repo
+
